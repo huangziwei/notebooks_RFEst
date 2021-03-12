@@ -11,4 +11,6 @@
 *.egg-info/
 *.DS_Store
 
-data/
+tutorials/data/
+manuscript/data/
+manuscript/*Sup*
