@@ -11,5 +11,5 @@
 *.egg-info/
 *.DS_Store
 
-tutorials/data/
+tutorials_v1/data/
 manuscript/data/
